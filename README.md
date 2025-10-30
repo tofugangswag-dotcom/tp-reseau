@@ -22,7 +22,7 @@
 sudo nano /etc/netplan/01-netcfg.yaml
 ```
 
-![ezr](https://hackmd.io/_uploads/r1wxnIbkbg.png)
+![ezr](https://i.imgur.com/YVLtaI6.png)
 ```bash
 # appliquer
 
@@ -35,4 +35,4 @@ sudo netplan apply
 ping 192.168.56.99
 
 ```
-![rezzer](https://hackmd.io/_uploads/HkidhUWkZe.png)
+![rezzer](https://i.imgur.com/BXQu76K.png)
